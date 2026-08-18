@@ -1,0 +1,98 @@
+{
+    "elearning": [
+        {
+            "level": 1,
+            "title": "Post Malone, Swae Lee - Sunflower (Spider-Man: Into the Spider-Verse)",
+            "description": "Sunflower is the #1 hit-single from the official soundtrack album Spider-Man™: Into the Spider-Verse..",
+            "video": "https://youtu.be/ApXoWvfEYVU?si=g7JlxoMZlfqknfi_",
+            "time": "2026-01-10",
+            "id": 1
+        },
+        {
+            "level": 1,
+            "title": "MARVEL'S SPIDER-MAN: Miles Morales PS5",
+            "description": "MARVEL'S SPIDER-MAN: Miles Morales PS5",
+            "video": "https://youtu.be/k48c936O1h0?si=28P-rEmJoorcSu_L",
+            "time": "2026-01-15",
+            "id": 2
+        },
+        {
+            "level": 2,
+            "title": "PRAGMATA - Part 1",
+            "description": "HEARTROCKER PRAGMATA - Part 1",
+            "video": "https://youtu.be/73ywi9Tjuw4?si=or1APmpyw5Zm7DKM",
+            "time": "2026-02-05",
+            "id": 3
+        },
+        {
+            "level": 2,
+            "title": "Silent Hill f - Part 1",
+            "description": "HEARTROCKER Silent Hill f - Part 1.",
+            "video": "https://youtu.be/sw6g6g4hm4Y?si=afkKrnhezNIQ5x9t",
+            "time": "2026-02-12",
+            "id": 4
+        },
+        {
+            "level": 3,
+            "title": "Death Stranding 2 - part 1",
+            "description": "HEARTROCKER Death Stranding 2 - part 1",
+            "video": "https://youtu.be/PWiCPZlhlF8?si=-c0ZuGUlvlqjfeDk",
+            "time": "2026-03-03",
+            "id": 5
+        },
+        {
+            "level": 3,
+            "title": "Clair Obscur: Expedition 33 - Part 1",
+            "description": "HEARTROCKER Clair Obscur: Expedition 33 - Part 1",
+            "video": "https://youtu.be/vTrke0rrUgc?si=wqkMc_Uzn8f6m-Lb",
+            "time": "2026-03-10",
+            "id": 6
+        },
+        {
+            "level": 4,
+            "title": "INTO THE DEAD: Our Darkest Days - Part 1",
+            "description": "HEARTROCKER INTO THE DEAD: Our Darkest Days - Part 1.",
+            "video": "https://youtu.be/rktK0fkURsE?si=EYZN45z2iil51XuR",
+            "time": "2026-04-01",
+            "id": 7
+        },
+        {
+            "level": 4,
+            "title": "Hogwarts Legacy - Part 1",
+            "description": "HEARTROCKER Hogwarts Legacy - Part 1.",
+            "video": "https://youtu.be/W14qntl8ir0?si=lyLTcqS7gJU-ilQ6",
+            "time": "2026-04-08",
+            "id": 8
+        }
+    ],
+    "badges": [
+        {
+            "id": 1,
+            "name": "Digital Starter",
+            "description": "Passed the basic digital literacy assessment.",
+            "icon": "🥉",
+            "level": 1
+        },
+        {
+            "id": 2,
+            "name": "Cyber Guardian",
+            "description": "Passed the cybersecurity awareness assessment.",
+            "icon": "🥈",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "name": "Data Protector",
+            "description": "Passed the data & privacy management assessment.",
+            "icon": "🥇",
+            "level": 3
+        },
+        {
+            "id": 4,
+            "name": "Digital Innovator",
+            "description": "Reached the highest level of the program, Advanced Digital Innovation.",
+            "icon": "🏆",
+            "level": 4
+        }
+    ]
+}

@@ -1,0 +1,341 @@
+{
+    "exam": [
+        {
+            "level": 1,
+            "question": "Which of the following is a form of primary storage (RAM)?",
+            "options": [
+                {
+                    "id": "a",
+                    "value": "RAM"
+                },
+                {
+                    "id": "b",
+                    "value": "Hard Disk"
+                },
+                {
+                    "id": "c",
+                    "value": "USB Flash Drive"
+                },
+                {
+                    "id": "d",
+                    "value": "DVD"
+                }
+            ],
+            "answer": "a",
+            "id": 1
+        },
+        {
+            "level": 1,
+            "question": "What is the main function of an Operating System?",
+            "options": [
+                {
+                    "id": "a",
+                    "value": "Manage the computer's resources"
+                },
+                {
+                    "id": "b",
+                    "value": "Design graphics"
+                },
+                {
+                    "id": "c",
+                    "value": "Only connect to the internet"
+                },
+                {
+                    "id": "d",
+                    "value": "Print documents"
+                }
+            ],
+            "answer": "a",
+            "id": 2
+        },
+        {
+            "level": 1,
+            "question": "Which file extension below is an image file?",
+            "options": [
+                {
+                    "id": "a",
+                    "value": ".jpg"
+                },
+                {
+                    "id": "b",
+                    "value": ".exe"
+                },
+                {
+                    "id": "c",
+                    "value": ".mp3"
+                },
+                {
+                    "id": "d",
+                    "value": ".docx"
+                }
+            ],
+            "answer": "a",
+            "id": 3
+        },
+        {
+            "level": 1,
+            "question": "What should you consider when evaluating a website's reliability?",
+            "options": [
+                {
+                    "id": "a",
+                    "value": "The source and author"
+                },
+                {
+                    "id": "b",
+                    "value": "The color scheme"
+                },
+                {
+                    "id": "c",
+                    "value": "The number of ads"
+                },
+                {
+                    "id": "d",
+                    "value": "The length of the article"
+                }
+            ],
+            "answer": "a",
+            "id": 4
+        },
+        {
+            "level": 1,
+            "question": "What is a web browser used for?",
+            "options": [
+                {
+                    "id": "a",
+                    "value": "Browsing the internet"
+                },
+                {
+                    "id": "b",
+                    "value": "Editing video"
+                },
+                {
+                    "id": "c",
+                    "value": "Storing local files"
+                },
+                {
+                    "id": "d",
+                    "value": "Printing documents"
+                }
+            ],
+            "answer": "a",
+            "id": 5
+        },
+        {
+            "level": 2,
+            "question": "What is a common characteristic of a phishing email?",
+            "options": [
+                {
+                    "id": "a",
+                    "value": "It urges you to click a link or submit information urgently"
+                },
+                {
+                    "id": "b",
+                    "value": "It always comes from a close friend"
+                },
+                {
+                    "id": "c",
+                    "value": "It never contains a link"
+                },
+                {
+                    "id": "d",
+                    "value": "It is always written formally"
+                }
+            ],
+            "answer": "a",
+            "id": 6
+        },
+        {
+            "level": 2,
+            "question": "What makes a password strong?",
+            "options": [
+                {
+                    "id": "a",
+                    "value": "Long, with a mix of letters, numbers, and symbols"
+                },
+                {
+                    "id": "b",
+                    "value": "Your own birthdate"
+                },
+                {
+                    "id": "c",
+                    "value": "Short and easy to remember"
+                },
+                {
+                    "id": "d",
+                    "value": "The same password for every site"
+                }
+            ],
+            "answer": "a",
+            "id": 7
+        },
+        {
+            "level": 2,
+            "question": "How does Multi-Factor Authentication (MFA) improve security?",
+            "options": [
+                {
+                    "id": "a",
+                    "value": "It requires more than one step to verify identity"
+                },
+                {
+                    "id": "b",
+                    "value": "It makes logging in faster"
+                },
+                {
+                    "id": "c",
+                    "value": "It removes the need for a password"
+                },
+                {
+                    "id": "d",
+                    "value": "It reduces the number of user accounts"
+                }
+            ],
+            "answer": "a",
+            "id": 8
+        },
+        {
+            "level": 2,
+            "question": "What is malware?",
+            "options": [
+                {
+                    "id": "a",
+                    "value": "Software designed to harm a computer system"
+                },
+                {
+                    "id": "b",
+                    "value": "Antivirus software"
+                },
+                {
+                    "id": "c",
+                    "value": "A type of hardware device"
+                },
+                {
+                    "id": "d",
+                    "value": "Photo editing software"
+                }
+            ],
+            "answer": "a",
+            "id": 9
+        },
+        {
+            "level": 2,
+            "question": "What should you do if you receive a suspicious link from someone you don't know?",
+            "options": [
+                {
+                    "id": "a",
+                    "value": "Avoid clicking it and verify the source first"
+                },
+                {
+                    "id": "b",
+                    "value": "Click it right away"
+                },
+                {
+                    "id": "c",
+                    "value": "Forward it for a friend to click"
+                },
+                {
+                    "id": "d",
+                    "value": "Reply asking for more information"
+                }
+            ],
+            "answer": "a",
+            "id": 10
+        },
+        {
+            "level": 3,
+            "question": "What does PDPA stand for?",
+            "options": [
+                {
+                    "id": "a",
+                    "value": "Personal Data Protection Act"
+                },
+                {
+                    "id": "b",
+                    "value": "Public Data Privacy Agreement"
+                },
+                {
+                    "id": "c",
+                    "value": "Personal Device Protection Application"
+                },
+                {
+                    "id": "d",
+                    "value": "Private Data Process Act"
+                }
+            ],
+            "answer": "a",
+            "id": 11
+        },
+        {
+            "level": 3,
+            "question": "Which of the following is considered sensitive personal data?",
+            "options": [
+                {
+                    "id": "a",
+                    "value": "Health information"
+                },
+                {
+                    "id": "b",
+                    "value": "Employer's company name"
+                },
+                {
+                    "id": "c",
+                    "value": "Postal code"
+                },
+                {
+                    "id": "d",
+                    "value": "Car brand"
+                }
+            ],
+            "answer": "a",
+            "id": 12
+        },
+        {
+            "level": 3,
+            "question": "What should you obtain first before collecting a user's personal data?",
+            "options": [
+                {
+                    "id": "a",
+                    "value": "Consent"
+                },
+                {
+                    "id": "b",
+                    "value": "As much data as possible"
+                },
+                {
+                    "id": "c",
+                    "value": "Permission to share it with third parties"
+                },
+                {
+                    "id": "d",
+                    "value": "Nothing, delete it immediately"
+                }
+            ],
+            "answer": "a",
+            "id": 13
+        },
+        {
+            "level": 3,
+            "question": "What is the goal of a Data Risk Assessment?",
+            "options": [
+                {
+                    "id": "a",
+                    "value": "Identify and reduce data-related risks before problems occur"
+                },
+                {
+                    "id": "b",
+                    "value": "Increase the amount of data collected"
+                },
+                {
+                    "id": "c",
+                    "value": "Reduce server costs"
+                },
+                {
+                    "id": "d",
+                    "value": "Increase website speed"
+                }
+            ],
+            "answer": "a",
+            "id": 14
+        }
+        
+    ]
+}

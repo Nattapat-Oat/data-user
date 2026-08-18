@@ -1,0 +1,130 @@
+{
+    "examResults": [
+        {
+            "username": "user1",
+            "level": 1,
+            "score": 40,
+            "result": "failed",
+            "time": "2026-01-10"
+        },
+        {
+            "username": "user2",
+            "level": 2,
+            "score": 52,
+            "result": "failed",
+            "time": "2026-02-11"
+        },
+        {
+            "username": "user2",
+            "level": 3,
+            "score": 70,
+            "result": "pass",
+            "time": "2026-03-12"
+        },
+        {
+            "username": "admin",
+            "level": 3,
+            "score": 64,
+            "result": "failed",
+            "time": "2026-04-13"
+        },
+        {
+            "username": "danaipanyawong",
+            "level": 1,
+            "score": 61,
+            "result": "pass",
+            "time": "2026-05-14"
+        },
+        {
+            "username": "danaipanyawong",
+            "level": 2,
+            "score": 79,
+            "result": "pass",
+            "time": "2026-06-15"
+        },
+        {
+            "username": "manoplekawatana",
+            "level": 2,
+            "score": 73,
+            "result": "pass",
+            "time": "2026-01-16"
+        },
+        {
+            "username": "lamaisombat",
+            "level": 3,
+            "score": 85,
+            "result": "pass",
+            "time": "2026-02-17"
+        },
+        {
+            "username": "lamaisombat",
+            "level": 1,
+            "score": 47,
+            "result": "failed",
+            "time": "2026-03-18"
+        },
+        {
+            "username": "fahchaiwat",
+            "level": 1,
+            "score": 41,
+            "result": "failed",
+            "time": "2026-04-19"
+        },
+        {
+            "username": "kamonmuangkaew",
+            "level": 2,
+            "score": 53,
+            "result": "failed",
+            "time": "2026-05-20"
+        },
+        {
+            "username": "kamonmuangkaew",
+            "level": 3,
+            "score": 71,
+            "result": "pass",
+            "time": "2026-06-21"
+        },
+        {
+            "username": "jariyanaewsakul",
+            "level": 3,
+            "score": 65,
+            "result": "failed",
+            "time": "2026-01-22"
+        },
+        {
+            "username": "chanidasuksai",
+            "level": 1,
+            "score": 62,
+            "result": "pass",
+            "time": "2026-02-23"
+        },
+        {
+            "username": "chanidasuksai",
+            "level": 2,
+            "score": 80,
+            "result": "pass",
+            "time": "2026-03-24"
+        },
+        {
+            "username": "maleeyasothorn",
+            "level": 2,
+            "score": 74,
+            "result": "pass",
+            "time": "2026-04-10"
+        },
+        {
+            "username": "ubonganjanapan",
+            "level": 3,
+            "score": 86,
+            "result": "pass",
+            "time": "2026-05-11"
+        },
+        {
+            "username": "ubonganjanapan",
+            "level": 1,
+            "score": 48,
+            "result": "failed",
+            "time": "2026-06-12"
+        }
+    ]
+}

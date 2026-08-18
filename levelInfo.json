@@ -1,0 +1,76 @@
+{
+    "levelInfo": [
+        {
+            "level": 1,
+            "title": "Beginner",
+            "description": "Build a foundation in using computers, the internet, and everyday digital tools.",
+            "benefits": [
+                "Access essential learning content to build your basic knowledge and skills.",
+                "Earn your Beginner Badge after completing your first level.",
+                "Access essential services designed for new users.",
+                "Track your learning progress and monitor your achievements."
+            ],
+            "services": [
+                "Basic Service Registration — Register and manage basic services available to new users.",
+                "Learning Resource Access — Access essential learning materials for your current level.",
+                "Progress Tracking — View your learning progress and current level status."
+            ],
+            "criteria": 60
+        },
+        {
+            "level": 2,
+            "title": "Explorer",
+            "description": "Learn to recognize and defend against common cyber threats such as phishing, malware, and weak passwords.",
+            "benefits": [
+                "Access advanced learning content to expand your knowledge and skills.",
+                "Earn your Explorer Badge by successfully completing Level 2.",
+                "Unlock additional services and opportunities available to Explorer members.",
+                "Access additional learning resources to support your continued development.",
+                "Track your progress and achievements as you advance through levels."
+            ],
+            "services": [
+                "Advanced Service Registration — Register for additional services available to Level 2 users.",
+                "Learning Resource Library — Access a wider range of learning materials and resources.",
+                "Achievement Tracking — View your progress, badges, and completed achievements."
+            ],
+            "criteria": 65
+        },
+        {
+            "level": 3,
+            "title": "Advanced",
+            "description": "Dive deeper into personal data management, privacy law (PDPA), and responsible data handling.",
+            "benefits": [
+                "Access advanced learning resources designed to develop your expertise further.",
+                "Earn your Advanced Badge after successfully completing Level 3.",
+                "Unlock premium content available exclusively to Advanced members.",
+                "Receive priority access to selected services and opportunities.",
+                "Access exclusive learning materials for deeper knowledge and development."
+            ],
+            "services": [
+                "Premium Service Access — Access premium services available exclusively to advanced users.",
+                "Advanced Resource Center — Explore advanced materials and specialized learning resources.",
+                "Priority Service Booking — Get priority access when booking selected services."
+            ],
+            "criteria": 70
+        },
+        {
+            "level": 4,
+            "title": "Expert",
+            "description": "The top tier of the program, reached automatically after passing the Level 3 exam. No exam is required at this level.",
+            "benefits": [
+                "Get full access to all services available across the platform.",
+                "Earn your Expert Badge as recognition of your highest achievement.",
+                "Unlock exclusive content designed for experienced and advanced users.",
+                "Receive priority support whenever you need assistance with our services.",
+                "Access expert-level learning resources to further develop your expertise.",
+                "Unlock exclusive services available only to Expert members."
+            ],
+            "services": [
+                "Full Service Access — Access all services available across the CAMT Passport platform.",
+                "Exclusive Expert Services — Access specialized services designed specifically for Expert users.",
+                "Priority Support Service — Receive priority assistance and support when using the platform."
+            ],
+            "criteria": 0
+        }
+    ]
+}
